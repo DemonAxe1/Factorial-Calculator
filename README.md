@@ -19,12 +19,12 @@ This program only calculates the first 12 factorials from 1-12. The program loop
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, Prompts the user to enter a inteher from 1-12: <br/>
+Launch the program, Prompts the user to enter an integer from 1-12: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/3%20MIPS%201.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
-once the integer is entered the factorial is calculated and printed on screen: <br/>
+Once the integer is entered the factorial is calculated and printed on screen: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/3%20MIPS%203.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -32,7 +32,7 @@ The program then runs 5 times before taking in input from the user and calculati
 <img src="https://github.com/DemonAxe1/img/blob/main/3%20MIPS%204.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Once the program runs 5 times a Goodbye mesage is printed and the program executes:  <br/>
+Once the program runs 5 times a Goodbye message is printed and the program terminates:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/3%20MIPS%205%20good%20bye.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
