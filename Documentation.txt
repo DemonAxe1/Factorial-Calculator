@@ -1,0 +1,22 @@
+Factorial Calculator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+This program takes input from the user in the form of an integer and then calculates the factorial of that number. 
+This program only calculates the first 12 factorials from 1-12. The program loops 5 times before it exits. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User input:
+---------------
+This program prompts the user to enter an integer between 1-12 to calculate the factorial of that number. 
+Then after the solution is printed the program loops 4 more times.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Checking the input and converting it:
+----------------------------
+Once the user enters the integer between 1-12, the program takes that number multiplies it by one then subtracts 1 from 
+the value that the user entered. The program then loops till the input that the user entered is 1 subtracting 1 every 
+iteration of the loop. In each loop, the new value of the user input (userInput – 1) is multiplied by our total and then 
+printed out at the end with a prompt that tells the user that this is the factorial solution.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
