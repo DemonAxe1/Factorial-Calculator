@@ -1,5 +1,5 @@
 #####################################################################
-# Factorial			Programmer: Tarek Hisham Ahmed Fouad
+# Factorial			Programmer: DemonAxe
 # Due Date: 4/3/2023		
 # Last Modified: 4/3/2023
 #####################################################################
